@@ -1,22 +1,40 @@
 # 💫About Me :
 🧑‍🦰 Hi everyone, my name is Bao but you can also call me Xyan. I'm 1️⃣9️⃣ and a Virgo ♍️
-💻 Currently, I'm studying Computer Network and Data Communication at Ho Chi Minh University of Information Technology (by the way I come from Vietnam)..
+
+💻 Currently, I'm studying Computer Network and Data Communication at Ho Chi Minh University of Information Technology (by the way I come from Vietnam).
+
 ❤️ I love my family, friends, food, and coding. I'm also a big fan of Taylor Swift!!! 
+
 📱 I spend most of my time on social media, especially Facebook and TikTok.
+
 🧑🏻‍💼 I have been a good student for 12 years, even in 5th grade I won an A prize in the "Clean and Beautiful Notebook" contest, and in 6th grade I ranked first in the class in the TOEFL IBT contest organized by the middle school.
+
 📘 I enjoy learning English very much and last year I got an IELTS score of 6.5 (this exceeded my goal) and in grade 3 I achieved a score of 11/15 in the Mover competition.
+
 👄 I have a good taste in US songs.
+
 🏸 Badminton is definitely my favorite sport (but my playing process is still bad).
+
 🔔 Talking about my extracurricular activities, I have something that I want to share with you:
-➕ Secretary of the Youth Union MMTT2022.1
-➕ Leader Content of the "Quality Tet" program in January 2023
-➕ Leader Program content “NC FES 2023” in March 2023
-➕ Head of the communication team for the volunteer program "Ngon Duoc Xanh" in May 2023
-➕ Deputy Leader of communications for the program "VNU TOUR 2023" in September and October 2023
-➕ Owner of the plot of the VNU TOUR 2023 program "Flower Secrets" in September and October
-➕ Leader of the General Director of the program "Meeting and Exchanging New Students at the 2023 Dormitory" in October
-➕ Tour leader at the NETSEC TOUR 2023 event
-➕ Head of communications for the program "Quest for Talent: Who Will Shine?" in November and December
+
+➕ Secretary of the Youth Union MMTT2022.1;
+
+➕ Leader Content of the "Chat Tet" program in January 2023;
+
+➕ Leader Content of the “NC FES 2023” in March 2023;
+
+➕ Head of the communication team for the volunteer program "Ngon Duoc Xanh" in May 2023;
+
+➕ Vice Leader of communications for the program "VNU TOUR 2023" in September and October 2023;
+
+➕ Owner of the plot of the VNU TOUR 2023 program "Flower Secrets" in September and October 2023;
+
+➕ Leader of the General Director of the program "Meeting and Exchanging New Students at the 2023 Dormitory" in October;
+
+➕ Tour leader at the NETSEC TOUR 2023 event;
+
+➕ Head of communications for the program "Quest for Talent: Who Will Shine?" in November and December;
+
 ➕ Individual Commendation at the Conference summarizing the Union's work and the youth movement for the 2022 - 2023 school year in October.
 
 ## 🌐Socials
