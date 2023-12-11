@@ -1,13 +1,19 @@
 # 💫About Me :
 🧑‍🦰 Hi everyone, my name is Bao but you can also call me Xyan. I'm 1️⃣9️⃣ and a Virgo ♍️
 
-💻 Currently, I'm studying Computer Network and Data Communication at Ho Chi Minh University of Information Technology (by the way I come from Vietnam).
+🧊 Blue is my favorite color. 
+
+💅 I have wide knowledge about skincare.
+
+💻 Currently, I'm studying Computer Network and Data Communication at Ho Chi Minh University of Information Technology (by the way I come from Vietnam). I got into this school thanks to the Priority Admission method
 
 ❤️ I love my family, friends, food, and coding. I'm also a big fan of Taylor Swift!!! 
 
 📱 I spend most of my time on social media, especially Facebook and TikTok.
 
 🧑🏻‍💼 I have been a good student for 12 years, even in 5th grade I won an A prize in the "Clean and Beautiful Notebook" contest, and in 6th grade I ranked first in the class in the TOEFL IBT contest organized by the middle school.
+
+🎓 My capacity assessment score is 719 points.
 
 📘 I enjoy learning English very much and last year I got an IELTS score of 6.5 (this exceeded my goal) and in grade 3 I achieved a score of 11/15 in the Mover competition.
 
