@@ -1,71 +1,24 @@
-# 💫 What do you want to know about me? :
-🧑‍🦰 Hi everyone, my name is Bao but you can also call me Xyan. I'm 1️⃣9️⃣ and a Virgo ♍️
+# 💫 About Me:
+🧑‍🦰 Hi everyone, my name is Bao but you can also call me Xyan. I'm 1️⃣9️⃣ and a Virgo ♍️<br><br>🧊 Blue is my favorite color.<br><br>💅 I have wide knowledge about skincare.<br><br>💻 Currently, I'm studying Computer Network and Data Communication at Ho Chi Minh University of Information Technology (by the way I come from Vietnam). I got into this school thanks to the Priority Admission method.<br><br>❤️ I love my family, friends, food, and coding. I'm also a big fan of Taylor Swift!!!<br><br>📱 I spend most of my time on social media, especially Facebook and TikTok.<br><br>🧑🏻‍💼 I have been a good student for 12 years, even in 5th grade I won an A prize in the "Clean and Beautiful Notebook" contest, and in 6th grade I ranked first in the class in the TOEFL IBT contest organized by the middle school.<br><br>🎓 My capacity assessment score is 719 points.<br><br>📘 I enjoy learning English very much and last year I got an IELTS score of 6.5 (this exceeded my goal) and in grade 3 I achieved a score of 11/15 in the Mover competition.<br><br>👄 I have a good taste in US songs.<br><br>🏸 Badminton is definitely my favorite sport (but my playing process is still bad).<br><br>🔔 Talking about my extracurricular activities, I have something that I want to share with you:<br><br>➕ Secretary of the Youth Union MMTT2022.1;<br><br>➕ Member of the Extension Executive Committee and working in the Communications and Events Committee under the Faculty of Computer Networks and Communications<br><br>➕ Leader Content of the "Chat Tet" program in January 2023;<br><br>➕ Leader Content of the “NC FES 2023” in March 2023;<br><br>➕ Head of the communication team for the volunteer program "Ngon Duoc Xanh" in May 2023;<br><br>➕ Vice Leader of communications for the program "VNU TOUR 2023" in September and October 2023;<br><br>➕ Owner of the plot of the VNU TOUR 2023 program "Mat ngu loai hoa" in September and October 2023;<br><br>➕ Leader of the General Director of the program "Meeting and Exchanging New Students at the 2023 Dormitory" in October 2023;<br><br>➕ Tour leader at the NETSEC TOUR 2023 event in November;<br><br>➕ Head of communications for the program "Quest for Talent: Who Will Shine?" in November and December 2023 ;<br><br>➕ Individual Commendation at the Conference summarizing the Union's work and the youth movement for the 2022 - 2023 school year in October 2023.<br><br>➕ Head of communication committee for volunteer campaign "Ngon Duoc Xanh 2024" in March and April 2024;<br><br>➕ Students successfully complete tasks during class meetings in February 2024;<br><br>➕ Member of the Documents team under the Faculty of Computer Networks and Communications in March 2024.<br><br>➕ Becoming an Executive Committee of   the Faculty of Computer Networks and Communications in May 2024.
 
-🧊 Blue is my favorite color.
 
-💅 I have wide knowledge about skincare.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xyan9718) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/BaoDHG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/idontspeakwell_/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/Anselm_Val/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/ObjectPuzzleheaded70/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23121938) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@valhala_d) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCm9rVmWggzeZ7Sm0PcfK5DQ) 
 
-💻 Currently, I'm studying Computer Network and Data Communication at Ho Chi Minh University of Information Technology (by the way I come from Vietnam). I got into this school thanks to the Priority Admission method.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=andreafletcherdinh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andreafletcherdinh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreafletcherdinh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-❤️ I love my family, friends, food, and coding. I'm also a big fan of Taylor Swift!!!
-
-📱 I spend most of my time on social media, especially Facebook and TikTok.
-
-🧑🏻‍💼 I have been a good student for 12 years, even in 5th grade I won an A prize in the "Clean and Beautiful Notebook" contest, and in 6th grade I ranked first in the class in the TOEFL IBT contest organized by the middle school.
-
-🎓 My capacity assessment score is 719 points.
-
-📘 I enjoy learning English very much and last year I got an IELTS score of 6.5 (this exceeded my goal) and in grade 3 I achieved a score of 11/15 in the Mover competition.
-
-👄 I have a good taste in US songs.
-
-🏸 Badminton is definitely my favorite sport (but my playing process is still bad).
-
-🔔 Talking about my extracurricular activities, I have something that I want to share with you:
-
-➕ Secretary of the Youth Union MMTT2022.1;
-
-➕ Member of the Extension Executive Committee and working in the Communications and Events Committee under the Faculty of Computer Networks and Communications
-
-➕ Leader Content of the "Chat Tet" program in January 2023;
-
-➕ Leader Content of the “NC FES 2023” in March 2023;
-
-➕ Head of the communication team for the volunteer program "Ngon Duoc Xanh" in May 2023;
-
-➕ Vice Leader of communications for the program "VNU TOUR 2023" in September and October 2023;
-
-➕ Owner of the plot of the VNU TOUR 2023 program "Mat ngu loai hoa" in September and October 2023;
-
-➕ Leader of the General Director of the program "Meeting and Exchanging New Students at the 2023 Dormitory" in October 2023;
-
-➕ Tour leader at the NETSEC TOUR 2023 event in November;
-
-➕ Head of communications for the program "Quest for Talent: Who Will Shine?" in November and December 2023 ;
-
-➕ Individual Commendation at the Conference summarizing the Union's work and the youth movement for the 2022 - 2023 school year in October 2023.
-
-➕ Head of communication committee for volunteer campaign "Ngon Duoc Xanh 2024" in March and April 2024;
-
-➕ Students successfully complete tasks during class meetings in February 2024;
-
-➕ Member of the Documents team under the Faculty of Computer Networks and Communications in March 2024.
-
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/BaoDHG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/idontspeakwell_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C4%91inh-hu%E1%BB%B3nh-gia-b%E1%BA%A3o-63a511259/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/yishunbao/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/ObjectPuzzleheaded70) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@valhala_d) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCm9rVmWggzeZ7Sm0PcfK5DQ) 
-
-# 💻 I can use
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=andreafletcherdinh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andreafletcherdinh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreafletcherdinh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=andreafletcherdinh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andreafletcherdinh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
