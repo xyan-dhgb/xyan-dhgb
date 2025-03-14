@@ -3,10 +3,12 @@ name: Update Age in README
 
 on:
   schedule:
-    # Run at 00:00 on the 1st of January every year
     - cron: '0 0 1 1 *'
-  # Optional: Enable manual running from the Actions tab on GitHub
   workflow_dispatch:
+
+# Thêm quyền để cho phép workflow ghi vào repository
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -16,12 +18,10 @@ jobs:
       
       - name: Update age in README
         run: |
-          # Thay đổi 2004 bằng năm sinh
           BIRTH_YEAR=2004
           CURRENT_YEAR=$(date +%Y)
           AGE=$((CURRENT_YEAR - BIRTH_YEAR))
           
-          # Update the age in the README.md
           sed -i "s/I'm \*\*[0-9]\+\*\* and a Virgo/I'm \*\*$AGE\*\* and a Virgo/g" README.md
       
       - name: Commit changes
@@ -29,5 +29,5 @@ jobs:
           git config --global user.name 'xyan-dhgb'
           git config --global user.email 'giabaoctg@gmail.com'
           git add README.md
-          git commit -m "Updating age automatically $(date +%Y)" || echo "No change"
+          git commit -m "Cập nhật tuổi tự động cho năm $(date +%Y)" || echo "Không có thay đổi"
           git push
