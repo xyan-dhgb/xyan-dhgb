@@ -26,8 +26,8 @@ jobs:
       
       - name: Commit changes
         run: |
-          git config --global user.name 'GitHub Action Bot'
-          git config --global user.email 'github-action@users.noreply.github.com'
+          git config --global user.name 'xyan-dhgb'
+          git config --global user.email 'giabaoctg@gmail.com'
           git add README.md
           git commit -m "Updating age automatically $(date +%Y)" || echo "No change"
           git push
