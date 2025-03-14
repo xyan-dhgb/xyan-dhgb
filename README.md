@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Myself:
 🧑‍🦰 Hi everyone, my name is Bao but you can also call me Xyan. I'm **20** and a Virgo ♍️<br><br>💻 Currently, I'm studying Computer Network and Data Communication at Ho Chi Minh University of Information Technology (by the way I come from Vietnam).
 
 ## 🌐 Socials:
