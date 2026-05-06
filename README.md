@@ -4,9 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=520&height=30&lines=21%20years%20old%20and%20come%20from%20Vietnam%3BComputer%20Network%20and%20Data%20Communication%20%3BCloud%2C%20System%20and%20DevOps%20Engineer%3BMy%20name%20is%20Bao" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/đinh-huỳnh-gia-bảo-63a511259) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xyan-dhgb) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giabaoctg@gmail.com)
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/%C4%91inh-hu%E1%BB%B3nh-gia-b%E1%BA%A3o-63a511259">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/xyan-dhgb">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:giabaoctg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=1C3A5F&bgStartColor=1C3A5F&bgEndColor=1C3A5F&bgGradientDirection=horizontal" alt="Divider" />
@@ -22,7 +31,7 @@ stable, scalable cloud operations in a collaborative environment.
 ### Technologies ☁️
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,bash,cloudflare,github,postgres,git,gitlab,vscode,postman&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,jenkins,githubactions,kubernetes,nginx,ubuntu,bash,cloudflare,github,postgres,git,gitlab,vscode,postman,grafana,prometheus,windows&perline=9&theme=dark" />
 </div>
 
 ### Languages and Scripting 💻
