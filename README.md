@@ -22,7 +22,7 @@ stable, scalable cloud operations in a collaborative environment.
 ### Technologies ☁️
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,bash,github,postgres,git,gitlab,vscode,postman&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,bash,cloudflare,github,postgres,git,gitlab,vscode,postman&perline=9&theme=dark" />
 </div>
 
 ### Languages and Scripting 💻
