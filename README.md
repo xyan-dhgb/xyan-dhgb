@@ -1,49 +1,50 @@
-## About Myself:
+<h1 align="center">Welcome to my GitHub's repository 🚀</h1>
 
-🧑‍🦰 Hi everyone, my name is **Bao** and you can call me **Xyan**. I'm **21** and I come from Vietnam 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=520&height=30&lines=21%20years%20old%20and%20come%20from%20Vietnam%3BComputer%20Network%20and%20Data%20Communication%20%3BCloud%2C%20System%20and%20DevOps%20Engineer%3BMy%20name%20is%20Bao" alt="Typing SVG" />
+</div>
 
-💻 Currently, I'm studying Computer Network and Data Communication at Ho Chi Minh University of Information Technology (you can check my school here: [University of Information Technology - VNUHCM](https://maps.app.goo.gl/YpgVnzFhQGSX2fKs5) )
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/đinh-huỳnh-gia-bảo-63a511259) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xyan-dhgb) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giabaoctg@gmail.com)
+</div>
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xyan9718) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/BaoDHG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/idontspeakwell_/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/Anselm_Val/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/ObjectPuzzleheaded70/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23121938) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@valhala_d) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCm9rVmWggzeZ7Sm0PcfK5DQ) 
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=1C3A5F&bgStartColor=1C3A5F&bgEndColor=1C3A5F&bgGradientDirection=horizontal" alt="Divider" />
+</div>
 
-## Tech Stack:
+## Core Competencies 🛠️
 
-### Programming language
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+With a passion for working with infrastructure and systems, coupled with a strong foundation in computer networking, I aspire to
+develop myself as a Cloud and DevOps Engineer. I am keen to support system reliability, monitoring, and day-to-day operational tasks
+while gaining exposure to real-world cloud systems. With a proactive learning mindset and a focus on efficiency, I aim to contribute to
+stable, scalable cloud operations in a collaborative environment.
 
-### Document language
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+### Technologies ☁️
 
-### IaC
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
- 
- ### Machine Learning / Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,bash,github,postgres,git,gitlab,vscode,postman&perline=9&theme=dark" />
+</div>
 
-### Database
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
- 
-### Cloud computing and Virtualization
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Languages and Scripting 💻
 
-### Server
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,cpp&perline=10&theme=dark" />
+</div>
 
-### Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<h2 align="center">GitHub Stats 📈</h2>
 
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=xyan-dhgb&theme=nord&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=8" alt="GitHub Stats" />
+</div>
 
-## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=xyan-dhgb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xyan-dhgb&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xyan-dhgb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=xyan-dhgb&theme=nord&hide_border=false&border_radius=8" alt="GitHub Streak" />
+</div>
 
-## ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=xyan-dhgb&theme=react-dark&hide_border=false" alt="Activity Graph" />
+</div>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=xyan-dhgb&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/trophies?username=xyan-dhgb&theme=nord&column=6&row=1&margin_w=10&margin_h=10&no_frame=true&no_bg=false" alt="GitHub Trophies" />
+</div>
