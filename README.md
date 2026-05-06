@@ -43,7 +43,7 @@ stable, scalable cloud operations in a collaborative environment.
 ### 📖 Productivity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gmail,notion,latex,vscode,visualstudio,figma,md,&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gmail,notion,latex,vscode,visualstudio,figma,md&perline=9&theme=dark" />
 </div>
 
 <h2 align="center">GitHub Stats 📈</h2>
