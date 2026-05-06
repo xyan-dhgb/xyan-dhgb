@@ -21,20 +21,20 @@
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=1C3A5F&bgStartColor=1C3A5F&bgEndColor=1C3A5F&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-## Core Competencies 🛠️
+## 🛠️ Core Competencies
 
 With a passion for working with infrastructure and systems, coupled with a strong foundation in computer networking, I aspire to
 develop myself as a Cloud and DevOps Engineer. I am keen to support system reliability, monitoring, and day-to-day operational tasks
 while gaining exposure to real-world cloud systems. With a proactive learning mindset and a focus on efficiency, I aim to contribute to
 stable, scalable cloud operations in a collaborative environment.
 
-### Technologies ☁️
+### ☁️ Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,jenkins,githubactions,kubernetes,nginx,ubuntu,bash,cloudflare,github,postgres,git,gitlab,vscode,postman,grafana,prometheus,windows&perline=9&theme=dark" />
 </div>
 
-### Languages and Scripting 💻
+### 💻 Languages and Scripting
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,cpp&perline=10&theme=dark" />
