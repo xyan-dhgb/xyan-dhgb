@@ -31,7 +31,7 @@ stable, scalable cloud operations in a collaborative environment.
 ### ☁️ Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,jenkins,githubactions,kubernetes,nginx,ubuntu,cloudflare,github,postgres,git,gitlab,postman,grafana,prometheus,windows&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,jenkins,githubactions,kubernetes,nginx,ubuntu,cloudflare,github,postgres,git,gitlab,postman,grafana,prometheus,windows&perline=9&theme=dark" />
 </div>
 
 ### 💻 Languages and Scripting
@@ -43,7 +43,7 @@ stable, scalable cloud operations in a collaborative environment.
 ### 📖 Productivity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gmail,notion,latex,vscode,&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gmail,notion,latex,vscode,visualstudio,figma,md,&perline=9&theme=dark" />
 </div>
 
 <h2 align="center">GitHub Stats 📈</h2>
